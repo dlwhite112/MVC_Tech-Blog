@@ -1,0 +1,26 @@
+{
+  "name": "MVC_Tech-Blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlwhite112/MVC_Tech-Blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlwhite112/MVC_Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/dlwhite112/MVC_Tech-Blog#readme",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "handlebars": "^4.7.7",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  }
+}
