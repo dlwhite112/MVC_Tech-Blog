@@ -37,7 +37,9 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
     Dl.dev - https://github.com/dlwhite112
 
 ## Screenshots
+<img width="1344" alt="dashboard-screenshot" src="https://user-images.githubusercontent.com/74333123/121733710-6f4cd980-cab9-11eb-94eb-bdb9b2677669.png">
 
+<img width="1343" alt="login-page-screenshot" src="https://user-images.githubusercontent.com/74333123/121733820-960b1000-cab9-11eb-8140-2b0a1cbe75b0.png">
 
 ## Tools
 
